@@ -3,6 +3,7 @@ Hull Scheduler V.1
 
 # Elite Hull Cleaning Scheduler
 A Streamlit-based application for scheduling boat hull cleaning tasks.
+View live demo: [Streamlit App](https://recanitatd-elitehullcleaningscheduler.streamlit.app/)
 
 ## Features
 - Assign divers to pairs with customizable list sizes.
