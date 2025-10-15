@@ -24,4 +24,4 @@ A Streamlit-based application for scheduling boat hull cleaning tasks.
 - Mark boats as completed or missed.
 
 ## Contact
-Terry St. Onge - [Your Email/LinkedIn]
+Terry St. Onge
